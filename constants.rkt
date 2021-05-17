@@ -12,7 +12,7 @@
 (define ground-height (quotient scene-height 6))
 (define ground-y (- scene-height ground-height))
 
-(define initial-gravity 1.3)
+(define initial-gravity 2)
 (define initial-momentum 15.0)
 
 (define bird-width 81)
