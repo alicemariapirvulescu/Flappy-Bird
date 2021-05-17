@@ -4,7 +4,7 @@
 (require lang/posn)
 (provide (all-defined-out))
 
-(define fps 30.0)
+(define fps 28.0)
 
 (define scene-height 960)
 (define scene-width 640)
